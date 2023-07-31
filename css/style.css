@@ -652,7 +652,6 @@ span {
   }
 
   .about {
-    flex-direction: column-reverse;
     text-align: center;
   }
   .about-content h2 {
