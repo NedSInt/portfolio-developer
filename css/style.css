@@ -661,9 +661,6 @@ span {
     width: 70vw;
     margin-top: -2rem;
   }
-  .about-content {
-    width: 70vw;
-  }
 
   .services h2, 
   .portfolio h2 {
@@ -678,9 +675,6 @@ span {
 @media(max-width: 617px) {
   .portfolio .portfolio-container {
     grid-template-columns: 1fr;
-  }
-  .about-content {
-    width: 90vw;
   }
 }
 
