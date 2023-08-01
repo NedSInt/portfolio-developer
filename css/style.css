@@ -634,7 +634,7 @@ span {
     transform: rotate(90deg) translate(-115px, -450px);
   }
   .home .profession-box .profession:nth-child(4) {
-    transform: rotate(180deg) translate(-220px, -335 px);
+    transform: rotate(180deg) translate(-280px, -335px);
   }
   .home .profession-box .circle {
     position: fixed;
@@ -701,12 +701,12 @@ span {
     transform: rotate(90deg) translate(-105px, -440px);
   }
   .home .profession-box .profession:nth-child(4) {
-    transform: rotate(180deg) translate(-210px, -335px);
+    transform: rotate(180deg) translate(-250px, -335px);
   }
 }
 
 @media (max-width: 365px) {
-  .about-img img {
+  .about-img h2 {
     width: 90vw;
   }
   .footer {
