@@ -709,6 +709,9 @@ span {
   .about-img h2 {
     width: 90vw;
   }
+  .about-content {
+    width: 90vw;
+  }
   .footer {
     flex-direction: column-reverse;
   }
