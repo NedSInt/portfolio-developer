@@ -691,6 +691,10 @@ span {
     padding: 0 3% 30rem;
   }
 
+  .about-content {
+    width: 90vw;
+  }
+
   .home .profession-box .profession:nth-child(1) {
     transform: rotate(-90deg) translate(-110px, -220px);
   }
